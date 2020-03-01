@@ -3,12 +3,12 @@
 public class GroundControl : MonoBehaviour
 {
     private float tiltSideways;
-
     private float tilSeesaw;
 
     // Start is called before the first frame update
     void Start()
     {
+        
     }
 
     // Update is called once per frame
